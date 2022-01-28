@@ -1,7 +1,7 @@
 {
 	"name": "torrent-cloud",
 	"website": "https://github.com/jpillora/torrent-cloud",
-	"repository": "https://github.com/jpillora/torrent-cloud",
+	"repository": "https://github.com/vivian-wis/node-torrent-cloud",
 	"env": {
 		"AUTH_USER": { "required": false },
 		"AUTH_PASSWORD": { "required": false },
